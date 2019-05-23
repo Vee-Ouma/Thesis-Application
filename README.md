@@ -4,4 +4,4 @@
 
 2. The zip file can be opened in Android Studio, and apk file can be installed on the device which runs on Android OS.
 
-3. If you get the problem on signup and login default login and password are "healthworker" an "123456".
+3. If you get the problem on signup and login default login and password are "healthworker" and "123456".
